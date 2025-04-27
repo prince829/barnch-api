@@ -1,8 +1,8 @@
 # NodeJS Typescript Express Template
 
-> Required NodeJS@^22.0
-> Required tsc
->Required typescript
+1. Required NodeJS@^22.0
+2. Required tsc
+3. Required typescript
 
 ##Starting
 1 `npm install`
